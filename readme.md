@@ -44,4 +44,4 @@ this is example for setting json of Code Runner, for Kotlin based by Gradle Proj
   },
 ```
 
-![Preview Acode](https://github.com/QiubyZ/Gradle-finder/raw/refs/heads/main/preview/acode.mp4)
+<video src="./preview/acode.mp4"></video>
