@@ -44,4 +44,4 @@ this is example for setting json of Code Runner, for Kotlin based by Gradle Proj
   },
 ```
 
-[![Preview Acode]](./preview/acode.mp4)
+[![Preview Acode](./preview/acode.mp4)]
