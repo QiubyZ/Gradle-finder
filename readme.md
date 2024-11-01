@@ -3,6 +3,9 @@
 This script for search gradle.settings and gradlew in Gradle Structure Folder, then call Gradle directly and then execute it.
 I created this script for **Code Runner** plugin integration.
 
+_Please Buy Me A Coffe🥺_
+<a href="https://trakteer.id/qiubyzhukhi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
 ## Help
 
 usage: main.py --dir DIR --cmd CMD
@@ -29,7 +32,9 @@ main $dir assembleDebug
 ```
 
 ## Acode Settings Code Runner Kotlin
+
 this is example for setting json of Code Runner, for Kotlin based by Gradle Project
+
 ```json
   {
     "extension": "kt",
