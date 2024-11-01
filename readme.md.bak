@@ -16,5 +16,5 @@ options:
   
 ## Example
 ```bash
-$python main.py --dir=$dir --cmd=assembleDebug
+$main.py --dir=$dir --cmd=assembleDebug
 ```
