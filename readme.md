@@ -43,3 +43,5 @@ this is example for setting json of Code Runner, for Kotlin based by Gradle Proj
     "command": "main.sh $dirNoSlash run"
   },
 ```
+
+![Preview Acode](./preview/acode.mp4)
